@@ -1,0 +1,93 @@
+[
+  {
+    "name": "callback",
+    "path": "/callback",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\callback.vue",
+    "chunkName": "pages/callback",
+    "_name": "_ed790242"
+  },
+  {
+    "name": "imputation",
+    "path": "/imputation",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\imputation\\\\index.vue",
+    "chunkName": "pages/imputation/index",
+    "_name": "_4b1c59fe"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_dbc25d3a"
+  },
+  {
+    "name": "admin-activity_log",
+    "path": "/admin/activity_log",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\admin\\\\activity_log.vue",
+    "chunkName": "pages/admin/activity_log",
+    "_name": "_03508bf9"
+  },
+  {
+    "name": "admin-organization",
+    "path": "/admin/organization",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\admin\\\\organization.vue",
+    "chunkName": "pages/admin/organization",
+    "_name": "_2db42b98"
+  },
+  {
+    "name": "admin-user",
+    "path": "/admin/user",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\admin\\\\user.vue",
+    "chunkName": "pages/admin/user",
+    "_name": "_ac4c89a0"
+  },
+  {
+    "name": "imputation-list",
+    "path": "/imputation/list",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\imputation\\\\list.vue",
+    "chunkName": "pages/imputation/list",
+    "_name": "_1df52bbc"
+  },
+  {
+    "name": "imputation-resubmit",
+    "path": "/imputation/resubmit",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\imputation\\\\resubmit\\\\index.vue",
+    "chunkName": "pages/imputation/resubmit/index",
+    "_name": "_debe56da"
+  },
+  {
+    "name": "imputation-upload",
+    "path": "/imputation/upload",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\imputation\\\\upload.vue",
+    "chunkName": "pages/imputation/upload",
+    "_name": "_3fecd9f6"
+  },
+  {
+    "name": "login-success",
+    "path": "/login/success",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\login\\\\success.vue",
+    "chunkName": "pages/login/success",
+    "_name": "_28f80dd4"
+  },
+  {
+    "name": "login-unauthorized",
+    "path": "/login/unauthorized",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\login\\\\unauthorized.vue",
+    "chunkName": "pages/login/unauthorized",
+    "_name": "_00aea873"
+  },
+  {
+    "name": "imputation-resubmit-upload",
+    "path": "/imputation/resubmit/upload",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\imputation\\\\resubmit\\\\upload.vue",
+    "chunkName": "pages/imputation/resubmit/upload",
+    "_name": "_4b146b10"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\TURBO\\\\nuxtproject\\\\imputation-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8a1ba9b0"
+  }
+]

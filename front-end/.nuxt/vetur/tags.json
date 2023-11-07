@@ -1,0 +1,29 @@
+{
+  "NavBar": {
+    "description": "Auto imported from components/nav-bar.vue"
+  },
+  "SideBar": {
+    "description": "Auto imported from components/side-bar.vue"
+  },
+  "ImputeGenoInput": {
+    "description": "Auto imported from components/impute/genoInput.vue"
+  },
+  "ImputeHewInput": {
+    "description": "Auto imported from components/impute/hewInput.vue"
+  },
+  "ImputeMafInput": {
+    "description": "Auto imported from components/impute/mafInput.vue"
+  },
+  "ImputeSnpInput": {
+    "description": "Auto imported from components/impute/snpInput.vue"
+  },
+  "UserManagementAddOrganization": {
+    "description": "Auto imported from components/user-management/addOrganization.vue"
+  },
+  "UserManagementAddUser": {
+    "description": "Auto imported from components/user-management/addUser.vue"
+  },
+  "UserManagementImputeList": {
+    "description": "Auto imported from components/user-management/imputeList.vue"
+  }
+}

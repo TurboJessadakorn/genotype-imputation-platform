@@ -1,0 +1,35 @@
+{
+  "name": "nuxt2-impute",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/vue-fontawesome": "^2.0.10",
+    "@nuxtjs/auth-next": "5.0.0-1667386184.dfbbb54",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "core-js": "^3.25.3",
+    "daisyui": "^2.52.0",
+    "filepond-plugin-file-validate-type": "^1.2.8",
+    "fs": "^0.0.1-security",
+    "nuxt": "^2.15.8",
+    "v-file-input": "^0.1.2",
+    "vue": "^2.7.14",
+    "vue-filepond": "^6.0.0",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.3.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}
